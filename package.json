@@ -22,5 +22,8 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "vue": "^2.4.4"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
   }
 }
